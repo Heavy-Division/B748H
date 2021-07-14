@@ -1,0 +1,28 @@
+{
+  "name": "b748h-heavy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heavy-Division/B748H.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Heavy-Division/B748H/issues"
+  },
+  "homepage": "https://github.com/Heavy-Division/B748H#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-ignore": "^3.0.0",
+    "gulp-update-version": "^1.0.2",
+    "gulp-zip": "^5.0.2",
+    "mathjs": "^9.2.0",
+    "through2": "^4.0.2"
+  }
+}
